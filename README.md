@@ -19,11 +19,11 @@ This also includes some basic performance tweaks to make things run a lot faster
 
 ## Technical Specifications
 This project has the following technical specifications.
--Face Detection
-* Robust frontal face detection
-* Detection of multiple faces in an image
--Facial Feature Detection
-* Detection of 68 facial feature points including eyes, eyebrows, mouth, nose, face contour
--Face Matching
-* Convert facial features to facial encodings
-* Matching of two faces by comparing with facial encodings
+* Face Detection
+  * Robust frontal face detection
+  * Detection of multiple faces in an image
+* Facial Feature Detection
+  * Detection of 68 facial feature points including eyes, eyebrows, mouth, nose, face contour
+* Face Matching
+  * Convert facial features to facial encodings
+  * Matching of two faces by comparing with facial encodings
